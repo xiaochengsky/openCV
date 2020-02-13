@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 
-# 图像的直方图均衡化
+# 图像的直方图
 
 # 将图像转换成一维数组, 再统计 [x, y, 3] ---> [x * y * 3]
 def img_hist(image):
