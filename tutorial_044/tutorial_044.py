@@ -21,6 +21,7 @@ def canny_demo(image):
     cv2.imshow('canny', canny)
     return canny
 
+
 img = cv2.imread('opencv-logo.png')
 
 # 避免修改原图
