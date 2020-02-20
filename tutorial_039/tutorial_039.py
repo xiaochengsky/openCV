@@ -18,7 +18,7 @@ def connected_components_stats_demo(src):
     # num_labels: 个数
     # labels: 当前寻找到的像素的第几个轮廓 ()
     # stats: 每个轮廓的中心坐标和宽高 (x,y,width,height)
-    num_labels, labels, stats, centers = cv2.connectedComponentsWithStats(binary, connectivity=8, ltype=cv.CV_32S)
+    num_labels, labels, stats, centers = cv2.connectedComponentsWithStats(binary, connectivity=8, ltype=cv2.CV_32S)
     print(num_labels)
     print(labels.shape)
     print(stats.shape)
