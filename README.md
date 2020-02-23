@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <th width=30%, bgcolor=yellow>名称</th>
-    <th width="70%", bgcolor=yellow>备注</th>
+    <th width=20%, bgcolor=yellow>名称</th>
+    <th width="80%", bgcolor=yellow>备注</th>
   </tr>
   <tr>
     <td > dataset </td>
