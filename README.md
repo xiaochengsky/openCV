@@ -231,6 +231,4 @@
     <td > Project_001 </td>
     <td> <a href="https://github.com/xiaochengsky/openCV/tree/master/Project_001"> 信用卡卡号识别项目</a></td>
   </tr>     
-  
 </table>
-cle/details/55222951
